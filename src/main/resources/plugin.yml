@@ -1,0 +1,4 @@
+name: TalkWithGod
+version: '${project.version}'
+main: top.cmarco.talkwithgod.TalkWithGod
+api-version: '1.13'
